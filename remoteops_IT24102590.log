@@ -1,0 +1,27 @@
+[2026-10-05 15:59:44] Agent started on TCP port 9410
+[2026-10-05 16:00:01] Client connected: 127.0.0.1
+[2026-10-05 16:00:01] Command from 127.0.0.1: AUTH OPS-2590
+[2026-10-05 16:00:01] AUTH success from 127.0.0.1
+[2026-10-05 16:00:06] Client connected: 127.0.0.1
+[2026-10-05 16:00:06] Command from 127.0.0.1: AUTH OPS-2590
+[2026-10-05 16:00:06] AUTH success from 127.0.0.1
+[2026-10-05 16:00:10] Client connected: 127.0.0.1
+[2026-10-05 16:00:10] Command from 127.0.0.1: AUTH OPS-2590
+[2026-10-05 16:00:10] AUTH success from 127.0.0.1
+[2026-10-05 16:00:22] Client connected: 127.0.0.1
+[2026-10-05 16:00:22] Command from 127.0.0.1: AUTH OPS-2590
+[2026-10-05 16:00:22] AUTH success from 127.0.0.1
+[2026-10-05 16:00:42] Client connected: 127.0.0.1
+[2026-10-05 16:00:42] Command from 127.0.0.1: AUTH OPS-2590
+[2026-10-05 16:00:42] AUTH success from 127.0.0.1
+[2026-10-05 16:02:55] Command from 127.0.0.1: SYSINFO
+[2026-10-05 16:04:32] Client disconnected: 127.0.0.1
+[2026-10-05 16:05:33] Command from 127.0.0.1: SYSINFO
+[2026-10-05 16:05:37] Command from 127.0.0.1: LISTPROC
+[2026-10-05 16:05:50] Command from 127.0.0.1: EXEC DATE
+[2026-10-05 16:06:22] Command from 127.0.0.1: EXEC ls
+[2026-10-05 16:06:22] Rejected EXEC command: ls
+[2026-10-05 16:07:10] Client disconnected: 127.0.0.1
+[2026-10-05 16:08:16] Command from 127.0.0.1: GET test_upload.txt
+[2026-10-05 16:08:16] GET file not found: test_upload.txt
+[2026-10-05 16:08:33] Client disconnected: 127.0.0.1
